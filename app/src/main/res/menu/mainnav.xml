@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/baseline_home_filled_24_white"
+        android:title="Home" />
+    <item
+        android:icon="@drawable/baseline_door_sliding_24_white"
+        android:title="Discover" />
+    <item
+        android:icon="@drawable/baseline_receipt_24_white"
+        android:title="Activity" />
+    <item
+        android:icon="@drawable/baseline_notifications_24_white"
+        android:title="Notifications" />
+</menu>
